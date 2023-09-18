@@ -7,6 +7,7 @@ Welcome to my GitHub repository! This is the central hub for my ever-evolving po
 - Landing page
 - CSS cheatsheet using flexbox
 - Upcoming
+- link to my portfolio
 
 ## Landing page
 
@@ -25,3 +26,7 @@ I have exciting plans to expand my portfolio with a variety of projects. Here's 
 2. LED Wall using NODE/IoT
 
 3. Surf Report (MERN stack)
+
+## Link to my portfolio
+
+https://gigeej.github.io/My-portfolio/
