@@ -5,10 +5,10 @@
 /* colour palette */
 :root {
   --primary: rgb(9, 16, 33);
-  --secondary: rgb(80, 15, 201);
-  --tertiary: rgb(255, 255, 255);
+  --secondary: rgb(246, 246, 246);
+  --tertiary: rgb(14, 5, 21);
   --dark: rgb(11, 0, 39);
-  --light: rgb(185, 188, 211);
+  --light: rgb(177, 179, 193);
 }
 
 body {
@@ -70,7 +70,7 @@ main {
 }
 
 .hero-banner {
-  background: rgb(46, 9, 101);
+  /* background: rgb(46, 9, 101); */
   background-image: url("../images/02-hero-bg.jpg"),
     linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
@@ -99,8 +99,8 @@ main {
   border-radius: 50%;
 }
 
-.page-wrapper {
-  max-width: 88%;
+.page-section {
+  max-width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -210,18 +210,17 @@ main {
 
 /* portfolio project images */
 .css-cheat {
-  background-image: url(/dev/assets/screenshot1.png);
+  background-image: url(/Assets/screenshot1.png);
   background-size: contain;
   background-size: no-repeat;
 }
 
 .landing-page {
-  background-image: url(/dev/assets/screenshot2.png);
+  background-image: url(./screenshot2.png);
+  background-size: cover;
 }
 
 .react-calc {
-  background-image: url(/dev/assets/screenshot3.png);
-  background-size: contain;
 }
 
 .pastel-puzzles {
