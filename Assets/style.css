@@ -209,13 +209,13 @@ main {
 }
 
 /* portfolio project images */
-.css-cheat {
+.landing-page {
   background-image: url(/Assets/screenshot1.png);
   background-size: contain;
   background-size: no-repeat;
 }
 
-.landing-page {
+.css-cheat {
   background-image: url(./screenshot2.png);
   background-size: cover;
 }
