@@ -216,11 +216,13 @@ main {
 }
 
 .css-cheat {
-  background-image: url(./screenshot2.png);
+  background-image: url;
   background-size: cover;
 }
 
-.react-calc {
+.password-gen {
+  background-image: url(./screenshot2.png);
+  background-size: cover;
 }
 
 .pastel-puzzles {
