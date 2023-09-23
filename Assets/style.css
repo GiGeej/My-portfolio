@@ -210,7 +210,7 @@ main {
 
 /* portfolio project images */
 .landing-page {
-  background-image: url(/Assets/screenshot1.png);
+  background-image: url(./screenshot1.png);
   background-size: contain;
   background-size: no-repeat;
 }
